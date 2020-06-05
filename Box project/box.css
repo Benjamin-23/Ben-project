@@ -1,0 +1,54 @@
+.intro-1{
+    border: 1px solid blue;
+    border-radius: 20px;
+    display: inline-block;
+    width: 170px;
+    text-align: center;
+    padding:20px;
+    margin-left:20px;
+    margin-top:0;
+    font-size: 4rem;
+    color:white;
+    background-color: cornflowerblue;
+
+}
+.heading{
+    margin-left:20px;
+}
+html{
+    background-color: gray;
+    scroll-behavior: smooth;
+}
+span{
+    font-size: 20px;
+    display: block;
+}
+.box{
+    display: grid;
+    grid-template-columns: auto;
+    width: 50%;
+}
+.intro{
+    margin: 0 auto;
+}
+.login{
+    border:  1px solid black;
+    display: grid;
+    margin: 10px auto;
+    padding: 5px;
+}
+input{
+    margin: 5px auto;  
+}
+#like{
+    border: solid white;
+    width: 100px;
+    border-radius: 40px;
+    margin: 10px 0 0 20px;
+    text-align: center;
+    color: blue;
+    background-color: white;
+    font-size: 2rem;
+}
+    
+
